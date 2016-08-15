@@ -1,19 +1,24 @@
 import Ember from 'ember';
+//import moment from 'moment';
 
 export default Ember.Route.extend({
-    model() {
-        return [{
-            from: 'recruiter@startup.com',
-            to: 'dev@me.com',
-            subject: 'Opportunity',
-            body: 'Dear {{firstName}}, ...',
-            sentAt: new Date()
-        },{
-            from: 'spam@spammer.com',
-            to: 'dev@me.com',
-            subject: 'Ads',
-            body: 'Junk',
-            sentAt: new Date()
-        }];
-    }
+  model() {
+    return [{
+      id: 1,
+      from: 'recruiter@startup.com',
+      to: 'dev@me.com',
+      subject: 'Opportunity',
+      body: 'Dear {{firstName}}, ...',
+      sentAt: new Date(),
+      readDate: null
+    }, {
+      id: 2,
+      from: 'spam@twitter.com',
+      to: 'dev@me.com',
+      subject: 'You may like these ads',
+      body: 'Some irrelevant ads',
+      sentAt: new Date(),
+      readDate: null
+    }];
+  }
 });
