@@ -1,0 +1,606 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"meiImage",
+				"meiImageFilenames"
+			],
+			[
+				"near",
+				"nearest_distance"
+			],
+			[
+				"best",
+				"best_match_scale_invariant"
+			],
+			[
+				"changed",
+				"changedSignificantly"
+			],
+			[
+				"frameBuf",
+				"frameBufferHasFilled"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"fl",
+				"flex-start"
+			],
+			[
+				"align",
+				"alignmentTransformation"
+			],
+			[
+				"object2",
+				"object2Attributes"
+			],
+			[
+				"object1",
+				"object1Attributes"
+			],
+			[
+				"possible",
+				"possibleSimilarity"
+			],
+			[
+				"Rave",
+				"RavensProblem"
+			],
+			[
+				"fu",
+				"funnelSortHelper"
+			],
+			[
+				"outpu",
+				"outputBuffer"
+			],
+			[
+				"ou",
+				"outputBuffer"
+			],
+			[
+				"lef",
+				"leftSourceFunnel"
+			],
+			[
+				"inde",
+				"indentation"
+			],
+			[
+				"allocat",
+				"allocateFunnelRec"
+			],
+			[
+				"left",
+				"leftInputBuffer"
+			],
+			[
+				"in",
+				"index_of_first_larger_splitter"
+			],
+			[
+				"da",
+				"data_idx"
+			],
+			[
+				"sor",
+				"sorted_displs"
+			],
+			[
+				"MPI_C",
+				"MPI_COMM_WORLD"
+			],
+			[
+				"recv",
+				"recvcnts"
+			],
+			[
+				"received",
+				"received_send_cnts"
+			],
+			[
+				"sorted_displ",
+				"sorted_displs_as_ints"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/folder/index.js",
+			"settings":
+			{
+				"buffer_size": 587,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jon.keller/workspace/ember-weekend/mymail",
+		"/Users/jon.keller/workspace/ember-weekend/mymail/app",
+		"/Users/jon.keller/workspace/ember-weekend/mymail/app/controllers",
+		"/Users/jon.keller/workspace/ember-weekend/mymail/app/controllers/folder",
+		"/Users/jon.keller/workspace/ember-weekend/mymail/app/routes",
+		"/Users/jon.keller/workspace/ember-weekend/mymail/app/routes/folder",
+		"/Users/jon.keller/workspace/ember-weekend/mymail/app/templates"
+	],
+	"file_history":
+	[
+		"/Users/jon.keller/workspace/ember-weekend/mymail/package.json",
+		"/Users/jon.keller/workspace/ember-weekend/mymail/ember-cli-build.js",
+		"/Users/jon.keller/workspace/ember-weekend/mymail/tests/unit/helpers/relative-date-formatter-test.js",
+		"/Users/jon.keller/workspace/ember-weekend/mymail/app/templates/index.hbs",
+		"/Users/jon.keller/workspace/ember-weekend/mymail/app/templates/application.hbs",
+		"/Users/jon.keller/workspace/ember-weekend/mymail/app/routes/application.js",
+		"/Users/jon.keller/workspace/ember-weekend/mymail/app/router.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/4495/ps7_matlab/find_best_match.m",
+		"/Users/jon.keller/Google Drive/Classes/GT/4495/ps7_matlab/ps7.m",
+		"/Users/jon.keller/Google Drive/Classes/GT/4495/ps7_matlab/compute_moment.m",
+		"/Users/jon.keller/Google Drive/Classes/GT/4495/ps7_matlab/compute_central_moment.m",
+		"/Users/jon.keller/Google Drive/Classes/GT/4495/ps7_matlab/compute_scale_invariant_moment.m",
+		"/Users/jon.keller/workspace/Javascript_MEI_MHI/imageMoments.js",
+		"/Users/jon.keller/workspace/Javascript_MEI_MHI/index.html",
+		"/Users/jon.keller/workspace/Javascript_MEI_MHI/gestureDetection.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/8803/Spring 2016/FinalProject/Final_Project_Resources/grading.py",
+		"/Users/jon.keller/workspace/chrome-screenshare-extension/extension/manifest.json",
+		"/Users/jon.keller/workspace/Javascript_MEI_MHI/index2.html",
+		"/Users/jon.keller/workspace/Javascript_MEI_MHI/imageMoments_old.js",
+		"/Users/jon.keller/workspace/Javascript_MEI_MHI/gestureDetection2.js",
+		"/Users/jon.keller/workspace/Javascript_MEI_MHI/node_modules/image-moments/src/index.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/4495/ps7_matlab/compute_mhi.m",
+		"/Users/jon.keller/Google Drive/Classes/GT/4495/ps7_matlab/compute_frame_difference.m",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/Project-Code-Java/ravensproject/out.html",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/Project-Code-Java/ravensproject/foo.html",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/Project-Code-Java/ravensproject/out.txt",
+		"/Users/jon.keller/Desktop/gestureTest.html",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/components/problem-canvas-3x3.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/components/problem-canvas.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/styles/app.css",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/templates/index.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/templates/problem-designer.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/controllers/problem-designer.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/controllers/problem-designer-3x3.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/templates/problem-designer-3x3.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/templates/components/problem-canvas.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/templates/components/problem-canvas-3x3.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/routes/problem-designer.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/routes/problem-designer-3x3.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/routes/index.js",
+		"/Users/jon.keller/workspace/chatDemo2.html",
+		"/Users/jon.keller/workspace/screenShareDemo.html",
+		"/Users/jon.keller/Dropbox/SampleIntuitDemoCSS.css",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/components/ravens-figure.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/templates/components/ravens-figure.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/templates/components/filter-figure-list.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/components/filter-figure-list.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/helpers/get-figure.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/templates/components/figure-list.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/components/figure-list.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/routes/figures.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/controllers/figures.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/templates/figures.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerBackEnd/routes/index.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/templates/components/figure-landing-spot.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/components/figure-landing-spot.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/models/figure.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/RavensProgressiveMatrixProblemManagerFrontEnd/app/controllers/figure-list.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/controllers/figures.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/templates/figures.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/templates/components/figure-list.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/controllers/figure-list.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/components/figure-list.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/components/filter-figure-list.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/templates/components/filter-figure-list.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManagerBackEnd/routes/index.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/models/figure.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/adapters/application.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/styles/app.css",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/templates/application.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/templates/index.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/routes/figures.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManagerBackEnd/app.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/adapters/figure.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/mirage/config.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/mirage/models/figure.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/config/environment.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/models/figuredata.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/templates/view-figures.hbs",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixProblemManager/app/routes/view-figures.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/RavensProgressiveMatrixGenerator/app/index.html",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/VisualProblemGenerator/routes/users.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/VisualProblemGenerator/app.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/VisualProblemGenerator/routes/index.js",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/VisualProblemGenerator/views/index.jade",
+		"/Users/jon.keller/workspace/chatDemo.html",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/Project-Code-Java/ravensproject/Agent.java",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/Project-Code-Java/ravensproject/RavensProblem.java",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/Project-Code-Java/ravensproject/RavensFigure.java",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/Project-Code-Java/ravensproject/RavensProject.java",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/Project-Code-Java/ravensproject/ProblemSet.java",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/Project-Code-Java/ravensproject/RavensObject.java",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/Project-Code-Java/ravensproject/RavensGrader.java",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/Project-Code-Java/ravensproject/test/generator.js",
+		"/Users/jon.keller/Downloads/FigureCollector.java",
+		"/Users/jon.keller/Downloads/ProblemGenerator.java",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/Project-Code-Java/Problems/collectAllGivenFigures.pl",
+		"/Users/jon.keller/workspace/chatDemo.bak1.html",
+		"/Users/jon.keller/workspace/Interactions2016/style.css",
+		"/Users/jon.keller/workspace/Interactions2016/Presentation_Demo.html",
+		"/Users/jon.keller/workspace/Interactions2016/aquarium.html",
+		"/Users/jon.keller/Google Drive/Classes/GT/7637/theirs/Project-Code-Java/ravensproject/Agent.java",
+		"/Users/jon.keller/workspace/webchat-js/src copy/components/screen-share/index.js",
+		"/Users/jon.keller/Desktop/Presentation_Demo.html",
+		"/Users/jon.keller/Google Drive/GT/Class/8803/Spring 2016/FinalProject/Submissions/Team18/finalproject/finalproject.py",
+		"/Users/jon.keller/Google Drive/GT/Class/8803/Spring 2016/FinalProject/Submissions/Team22/finalproject/finalproject.py",
+		"/Users/jon.keller/Google Drive/GT/Class/8803/Spring 2016/FinalProject/Final_Project_Resources/grading.py",
+		"/Users/jon.keller/Google Drive/GT/Class/8803/Spring 2016/FinalProject/Submissions/Team11/finalproject/README.md",
+		"/Users/jon.keller/Downloads/source/sorting/funnelsort/bin_merge.h",
+		"/Users/jon.keller/Downloads/source/sorting/funnelsort/buf.h",
+		"/Users/jon.keller/Downloads/source/sorting/funnelsort/k_way_merger.h",
+		"/Users/jon.keller/Downloads/source/sorting/funnelsort/funnelSort.h",
+		"/Users/jon.keller/Google Drive/GT/Class/6220/hpc-projects/oms-hpc-lab5/bar",
+		"/Users/jon.keller/Google Drive/GT/Class/6220/hpc-projects/oms-hpc-lab5/foo",
+		"/Users/jon.keller/workspace/ember-test/ember-quickstart/app/routes/scientists.js",
+		"/Users/jon.keller/workspace/ember-test/ember-quickstart/app/templates/components/people-list.hbs",
+		"/Users/jon.keller/workspace/ember-test/ember-quickstart/app/templates/scientists.hbs",
+		"/Users/jon.keller/workspace/ember-test/ember-quickstart/app/templates/application.hbs",
+		"/Users/jon.keller/workspace/ember-test/ember-quickstart/app/router.js",
+		"/Users/jon.keller/Google Drive/GT/Class/8803/Spring 2016/Grades/RR_Code/rsgk3/The Final Hunt Program/studentMain.py",
+		"/Users/jon.keller/Google Drive/GT/Class/8803/Spring 2016/Grades/RR_Code/rko9/The Final Hunt Program/studentMain.py",
+		"/Users/jon.keller/Google Drive/GT/Class/8803/Spring 2016/Grades/RR_Code/jgil30/The Final Hunt Program/studentMain.py",
+		"/Users/jon.keller/Google Drive/GT/Class/8803/Spring 2016/Grades/RR_Code/jcook67/The Final Hunt Program/studentMain.py",
+		"/Users/jon.keller/Google Drive/GT/Class/8803/Spring 2016/Grades/RR_Code/gtg819x/The Final Hunt Program/studentMain.py",
+		"/Users/jon.keller/Google Drive/GT/Class/8803/Spring 2016/Grades/RR_Code/gth675r/The Final Hunt Program/studentMain.py",
+		"/Users/jon.keller/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jon.keller/Google Drive/GT/Class/6220/hpc-projects/oms-hpc-lab5/timer.c",
+		"/Users/jon.keller/Google Drive/GT/Class/6220/hpc-projects/oms-hpc-lab5/sort_utils.c"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"relativeDateFormatter",
+			"showEmail",
+			"welc",
+			"classList",
+			"UNKNO",
+			"previewMEI",
+			"preview",
+			"'mei'",
+			"displayMEI",
+			"classList",
+			"000",
+			"40000",
+			"computeM",
+			"computeMoments",
+			"match(",
+			"mhi_scale_invariant_",
+			"mei_scale_invariant_",
+			"mei_unscaled_",
+			"mhi_unscaled_",
+			"2d",
+			"computeMoments",
+			"function com",
+			"moment",
+			"imageBrightness",
+			"hu",
+			"2000000",
+			"100000",
+			"pixel",
+			"countPixels",
+			"function match(",
+			"loadImage",
+			"displayMEI",
+			"console.log",
+			"type=\"range\" ",
+			"type=\"range\"",
+			"mhiHistory",
+			"function match(",
+			"frame =",
+			"captureFrame",
+			"meiImages",
+			"match(",
+			"displayMEI",
+			"function match",
+			"console.log",
+			"function match",
+			"match",
+			"loadImage",
+			"moment",
+			"find_best",
+			"moment",
+			"find_best",
+			"console.log",
+			"matchIndex",
+			"match()",
+			"find_best_match",
+			"scores",
+			"console.log",
+			"match()",
+			"isUnsc",
+			"diffImg",
+			"find_best_match",
+			"displayMEI",
+			"expandFrame",
+			"displayFrame",
+			"console.log",
+			"'match'",
+			"'mei",
+			"mei",
+			"displayImages",
+			"unknown",
+			"index",
+			"find_best",
+			"console.log",
+			"find_best_match",
+			"find_best",
+			"raw",
+			"capturef",
+			"#camera",
+			"'camera'",
+			"\"camera\"",
+			"#video",
+			"'video'",
+			"\"video\"",
+			"getContext",
+			"unscaled_image_moments",
+			"find_best_",
+			"successCallback",
+			"frameLoop",
+			"console.log",
+			"string",
+			"int",
+			"integer",
+			"/**",
+			"computeMEI",
+			"scale_invariant",
+			"unscaled",
+			"match(",
+			"mei",
+			"*4",
+			"computeMoments",
+			"expand",
+			".data.set",
+			"pow",
+			"compute_central_moment",
+			"match\\(",
+			"match(",
+			"find_best",
+			"_2a",
+			"meiBuffer",
+			"tau",
+			"mhibuffer",
+			"mhiBuffer",
+			"prev_mhi",
+			"prev_frame",
+			"tau",
+			"%",
+			"imgBuffer",
+			"imgBufferIndex",
+			"query",
+			"class='problem",
+			"Image: Number of shapes in Basic Problem.*?$",
+			"Visual2x2Agent:.*?$",
+			"Verbal3x3Agent: Weighted difference:.*?$",
+			"TransformationSemanticNetwork:.*?$",
+			"ObjectDifferenceDifferenceQuantifier:.*$",
+			"Verbal3x3Agent: Evaluating answer candidate: \\d",
+			"IAgent: Could not short-circuit",
+			"PairingHeap.*?$"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"previewMEI",
+			"1000",
+			"mhiMoments.n",
+			"meiMoments.n",
+			"meiMoments.m",
+			"mhiMoments.m",
+			"40000",
+			"type=\"range\" id=\"range\"",
+			"type=\"range\" min=\"0\" max=\"2000000\"",
+			"prevMHI",
+			"prevFrame",
+			"frameBuffer",
+			"",
+			"id=\"figure-landing-spot",
+			"{{figure-landing-spot id=\"figure-label-A\"}}",
+			"",
+			"<div class=\"figure-label\">",
+			"div",
+			"ATTR_SIZE",
+			"ATTR_FILL",
+			"ATTR_ANGLE",
+			"ATTR_ALIGNMENT",
+			"ATTR_SHAPE",
+			"printf(",
+			"    ",
+			"recvdispls",
+			"mpi_tera_type",
+			"terarec_t",
+			"TYPE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/folder/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
