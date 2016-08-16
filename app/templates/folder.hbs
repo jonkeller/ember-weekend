@@ -12,11 +12,17 @@
             Inbox {{#if inboxCount}}({{inboxCount}}){{/if}}
           {{/link-to}}
         {{/link-to}}
-
         {{#link-to 'folder' 'trash' tagName="li"}}
           {{#link-to 'folder' 'trash'}}
             {{fa-icon "trash"}}
             Trash {{#if trashCount}}({{trashCount}}){{/if}}
+          {{/link-to}}
+        {{/link-to}}
+
+        {{#link-to 'folder' 'starred' tagName="li"}}
+          {{#link-to 'folder' 'starred'}}
+            {{fa-icon "star"}}
+            Starred {{#if starredCount}}({{starredCount}}){{/if}}
           {{/link-to}}
         {{/link-to}}
       </ul>
