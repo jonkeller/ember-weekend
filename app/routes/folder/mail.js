@@ -12,10 +12,10 @@ export default Ember.Route.extend({
   serialize(model) {
     return { mailId: model.id };
   },
-  actions: {
-    moveToTrash(model) {
-        set(model, 'trashedDate', new Date());
-        this.transitionTo('application');
+  actions:  {
+    moveToTrash(email) {
+      set(email, 'trashedDate', new Date());
+      this.transitionTo('application');
     }
   }
 });
